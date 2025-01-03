@@ -4,15 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# 关于
-
 > 中文请向下翻。
->
-> {: .prompt-warning }
+{: .prompt-warning }
 
 > You may more find English Information in the [GitHub Repository](https://github.com/imcpap/imcpap.github.io) regarding the content and technic used in this website. However, most information will be written in Chinese. It is recommended to use Google Translator. 
->
-> {: .prompt-info }
+{: .prompt-info }
 
 I was (and am) an architectural engineer from the beginning of my career. I am Chinese and studied, lived, and worked in Britain for more than half a decade. However, not only being a bit tired of boring drawings but also seeing no future in the traditional architecture industry, I decided to use my savings to escape reality for a period of time. 
 
