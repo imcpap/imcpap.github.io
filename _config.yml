@@ -23,7 +23,7 @@ description : This site contains many notes from learning or personal reflection
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://github.com/imcpap/randomNote"
+url: "imyutong.wang"
 
 github:
   username: imcpap # change to your GitHub username
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "imyutong.wang"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
