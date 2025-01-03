@@ -14,11 +14,11 @@ timezone    : Asia/Hong_Kong
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title       : Personal Blog # the main title
+title       : 3313 # the main title
 
-tagline     : Some random stuff # it will display as the subtitle
+tagline     : 日常杂记 # it will display as the subtitle
 
-description : This site contains many notes from learning or personal reflection, and it is definitely meaningless to anyone in the world. 
+description : 网站内容大多为日常生活中的莫名想法，绝对没有意义。
 # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.

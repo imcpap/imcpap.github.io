@@ -20,7 +20,7 @@ tabs:
 search:
   hint: 搜索
   cancel: 取消
-  no_results: 搜索结果为空
+  no_results: 你到达了一片荒地，什么也没发现
 
 panel:
   lastmod: 最近更新
@@ -31,18 +31,18 @@ copyright:
   # Shown at the bottom of the post
   license:
     template: 本文由作者按照 :LICENSE_NAME 进行授权
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    name: CC BY-SA 4.0
+    link: https://creativecommons.org/licenses/by-sa/4.0/ 
 
   # Displayed in the footer
-  brief: 保留部分权利。
+  brief: 对想法保留部分权利。
   verbose: >-
-    除非另有说明，本网站上的博客文章均由作者按照知识共享署名 4.0 国际 (CC BY 4.0) 许可协议进行授权。
+    除非另有说明，所有属于这里的想法都按照署名-相同方式共享4.0国际(CC BY-SA 4.0)协议进行授权。
 
 meta: 本站采用 :PLATFORM 主题 :THEME
 
 not_found:
-  statement: 抱歉，链接似乎不太正确，或者它指向了不存在的内容。
+  statement: 抱歉，链接似乎不太正确，或者它指向了尚未探索的领域。
 
 notification:
   update_found: 发现新版本的内容。
