@@ -11,10 +11,10 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: 首页
-  categories: 分类
-  tags: 标签
-  archives: 归档
-  about: 关于
+  categories: 按分类
+  tags: 按标签
+  archives: 按世界
+  about: 关于我
 
 # the text displayed in the search bar & search results
 search:
@@ -23,21 +23,21 @@ search:
   no_results: 你到达了一片荒地，什么也没发现
 
 panel:
-  lastmod: 最近更新
-  trending_tags: 热门标签
-  toc: 文章内容
+  lastmod: 最近上架
+  trending_tags: 常常点选
+  toc: 文章梗概
 
 copyright:
   # Shown at the bottom of the post
   license:
-    template: 本文由作者按照 :LICENSE_NAME 进行授权
+    template: 本文在 :LICENSE_NAME 协议授权下提供，作者不对内容准确性负责。
     name: CC BY-SA 4.0
     link: https://creativecommons.org/licenses/by-sa/4.0/ 
 
   # Displayed in the footer
-  brief: 对想法保留部分权利。
+  brief: 对所有属于这里的内容保留部分权利。
   verbose: >-
-    除非另有说明，所有属于这里的想法都按照署名-相同方式共享4.0国际(CC BY-SA 4.0)协议进行授权。
+    除非另有说明，所有属于这里的内容都在署名-相同方式共享4.0国际(CC BY-SA 4.0)协议下授权提供。
 
 meta: 本站采用 :PLATFORM 主题 :THEME
 
@@ -45,7 +45,7 @@ not_found:
   statement: 抱歉，链接似乎不太正确，或者它指向了尚未探索的领域。
 
 notification:
-  update_found: 发现新版本的内容。
+  update_found: 发现了内容更新
   update: 更新
 
 # ----- Posts related labels -----
