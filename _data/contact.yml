@@ -10,6 +10,10 @@
 #  icon: "fa-brands fa-weibo"
 #  url: 'https://example.com/'
 
+- type: bilibili
+  icon: "fa-brands fa-bilibili"
+  url: 'https://space.bilibili.com/343173514'
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
