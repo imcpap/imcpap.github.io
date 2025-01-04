@@ -1,24 +1,24 @@
 # The Site Configuration
 
 # Import the theme
-theme       : jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang        : zh-CN
+lang: zh-CN
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone    : Asia/Hong_Kong
+timezone: Asia/Hong_Kong
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title       : 3313ideas # the main title
+title: 3313ideas # the main title
 
-tagline     : 日常杂记 # it will display as the subtitle
+tagline: 日常杂记 # it will display as the subtitle
 
-description : 网站内容大多为日常生活中的莫名想法，绝对没有意义。
+description: 网站内容大多为日常生活中的莫名想法，绝对没有意义。
 # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
@@ -38,8 +38,8 @@ social:
   email: me@imyutong.wang # change to your email address
   links:
     # The first element serves as the copyright owner's link
-	- https://github.com/imcpap
-	- https://twitter.com/imcpap
+  - https://github.com/imcpap
+  - https://twitter.com/imcpap
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/favicons/web-app-manifest-512x512.png
+avatar: "/assets/img/favicons/web-app-manifest-512x512.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
