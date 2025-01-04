@@ -14,7 +14,7 @@ timezone    : Asia/Hong_Kong
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title       : 3313 # the main title
+title       : 3313ideas # the main title
 
 tagline     : 日常杂记 # it will display as the subtitle
 
@@ -26,10 +26,10 @@ description : 网站内容大多为日常生活中的莫名想法，绝对没有
 url: "https://imyutong.wang"
 
 github:
-  username: imcpap # change to your GitHub username
+  username: imcpap
 
-#twitter:
-#  username: twitter_username # change to your Twitter username
+twitter:
+  username: imcpap
 
 social:
   # Change to your full name.
@@ -38,9 +38,9 @@ social:
   email: me@imyutong.wang # change to your email address
   links:
     # The first element serves as the copyright owner's link
-       - https://github.com/imcpap # change to your GitHub homepage
+	- https://github.com/imcpap
+	- https://twitter.com/imcpap
     # Uncomment below to add more social links
-    # - https://twitter.com/username # change to your Twitter homepage
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
